@@ -14,6 +14,7 @@
 		EF1A5CA0237FBB05007A12AA /* FeedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF1A5C9F237FBB05007A12AA /* FeedViewController.swift */; };
 		EF2D5A8B237FCA6A005A81AA /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF2D5A8A237FCA6A005A81AA /* CameraViewController.swift */; };
 		EF2D5A8D237FD206005A81AA /* PostCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF2D5A8C237FD206005A81AA /* PostCell.swift */; };
+		EF674F3D23850B2F00CABC6D /* CommentCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF674F3C23850B2F00CABC6D /* CommentCell.swift */; };
 		EFDD6436237F2C9800AEAF84 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFDD6435237F2C9800AEAF84 /* AppDelegate.swift */; };
 		EFDD643B237F2C9800AEAF84 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EFDD6439237F2C9800AEAF84 /* Main.storyboard */; };
 		EFDD643D237F2C9A00AEAF84 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EFDD643C237F2C9A00AEAF84 /* Assets.xcassets */; };
@@ -53,6 +54,7 @@
 		EF1A5C9F237FBB05007A12AA /* FeedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedViewController.swift; sourceTree = "<group>"; };
 		EF2D5A8A237FCA6A005A81AA /* CameraViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraViewController.swift; sourceTree = "<group>"; };
 		EF2D5A8C237FD206005A81AA /* PostCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostCell.swift; sourceTree = "<group>"; };
+		EF674F3C23850B2F00CABC6D /* CommentCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentCell.swift; sourceTree = "<group>"; };
 		EFDD6432237F2C9800AEAF84 /* Parstagram.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Parstagram.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EFDD6435237F2C9800AEAF84 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		EFDD643A237F2C9800AEAF84 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -152,6 +154,7 @@
 				EF1A5C9F237FBB05007A12AA /* FeedViewController.swift */,
 				EF2D5A8A237FCA6A005A81AA /* CameraViewController.swift */,
 				EF2D5A8C237FD206005A81AA /* PostCell.swift */,
+				EF674F3C23850B2F00CABC6D /* CommentCell.swift */,
 			);
 			path = Parstagram;
 			sourceTree = "<group>";
@@ -418,6 +421,7 @@
 				EF1A5CA0237FBB05007A12AA /* FeedViewController.swift in Sources */,
 				EFDD6436237F2C9800AEAF84 /* AppDelegate.swift in Sources */,
 				EF2D5A8D237FD206005A81AA /* PostCell.swift in Sources */,
+				EF674F3D23850B2F00CABC6D /* CommentCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
